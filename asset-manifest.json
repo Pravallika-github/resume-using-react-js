@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/resume-using-react-js/static/css/main.e9286201.chunk.css",
+    "main.js": "/github.io/resume-using-react-js/static/js/main.a498462b.chunk.js",
+    "main.js.map": "/github.io/resume-using-react-js/static/js/main.a498462b.chunk.js.map",
+    "runtime-main.js": "/github.io/resume-using-react-js/static/js/runtime-main.acc9f781.js",
+    "runtime-main.js.map": "/github.io/resume-using-react-js/static/js/runtime-main.acc9f781.js.map",
+    "static/css/2.e4346227.chunk.css": "/github.io/resume-using-react-js/static/css/2.e4346227.chunk.css",
+    "static/js/2.185f7e53.chunk.js": "/github.io/resume-using-react-js/static/js/2.185f7e53.chunk.js",
+    "static/js/2.185f7e53.chunk.js.map": "/github.io/resume-using-react-js/static/js/2.185f7e53.chunk.js.map",
+    "index.html": "/github.io/resume-using-react-js/index.html",
+    "precache-manifest.810b6903bdbe2637f40dedd3419d6b9a.js": "/github.io/resume-using-react-js/precache-manifest.810b6903bdbe2637f40dedd3419d6b9a.js",
+    "service-worker.js": "/github.io/resume-using-react-js/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/github.io/resume-using-react-js/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.e9286201.chunk.css.map": "/github.io/resume-using-react-js/static/css/main.e9286201.chunk.css.map",
+    "static/js/2.185f7e53.chunk.js.LICENSE.txt": "/github.io/resume-using-react-js/static/js/2.185f7e53.chunk.js.LICENSE.txt",
+    "static/media/pravi.jpg": "/github.io/resume-using-react-js/static/media/pravi.139c9124.jpg",
+    "static/media/sana.jpg": "/github.io/resume-using-react-js/static/media/sana.7a0882c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc9f781.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.185f7e53.chunk.js",
+    "static/css/main.e9286201.chunk.css",
+    "static/js/main.a498462b.chunk.js"
+  ]
+}

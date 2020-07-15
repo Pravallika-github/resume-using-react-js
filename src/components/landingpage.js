@@ -16,8 +16,8 @@ class Landing extends Component {
               />
 
             <div className="banner-text">
-              <h1> SANAPALA PRAVALLIKA</h1>
-                <h3>EMAIL:pravallikasanapalA1@gmail.com</h3>
+              <h3> SANAPALA PRAVALLIKA</h3>
+                <h5>EMAIL:pravallikasanapala1@gmail.com</h5>
                 <h3>MOBILE NUMBER:9381935760</h3>
                 <h3>ADDRESS:VISAKHAPATNAM</h3>
                 <hr/>
